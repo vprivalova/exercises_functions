@@ -43,7 +43,6 @@ def triangle_right(x, y, side, color):
 
 def triangle_left(x, y, side, color):
     t.pencolor(color)
-    t.pencolor(color)
     t.pensize(5)
     t.speed(10)
     t.goto(x, y)
