@@ -7,4 +7,3 @@ def multiple(a, b, n):
 
     for elem in result:
         print(elem, end=' ')
-
