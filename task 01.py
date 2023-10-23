@@ -15,5 +15,5 @@ def letter_counter(line):
     print('Гласных: ', vowels_cnt, 'Согласных: ', consonants_cnt)
 
 
-line = input()
-letter_counter(line)
+statement = input()
+letter_counter(statement)
